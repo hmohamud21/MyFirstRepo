@@ -1,3 +1,3 @@
 # MyFirstRepo
 ## HalimaMohamud
-https://www.markdownguide.org/cheat-sheet/
+[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
